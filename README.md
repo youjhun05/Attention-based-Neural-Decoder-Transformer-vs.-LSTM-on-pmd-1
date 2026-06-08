@@ -1,5 +1,4 @@
 # Attention-based-Neural-Decoder-Transformer-vs.-LSTM-on-pmd-1
-# Attention-based Neural Decoder: Transformer vs. LSTM on pmd-1
 
 This repository provides an advanced benchmarking and evaluation framework for Brain-Computer Interface (BCI) neural decoders using the **CRCNS pmd-1 dataset (Macaque M1+PMd)**. The project systematically evaluates and compares traditional and deep learning-based architectures in decoding continuous movement velocities from population spike counts, with a specific focus on robust evaluation under simulated neural communication failure.
 
